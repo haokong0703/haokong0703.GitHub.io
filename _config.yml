@@ -4,7 +4,7 @@ header-img: "img/green.jpg"
 tagline: "cn"  
 description: "夏至 & 陆离|出发，回归"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://7foundation"  
 
 # About/contact
 owner: 
@@ -33,7 +33,7 @@ paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Shenzhen
 
 # Defaults for posts
 defaults:
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "haokong0703"
+      author: "陆离"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
