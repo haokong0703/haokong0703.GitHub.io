@@ -7,16 +7,6 @@ tags: [总结,知识管理]
 description: 开始博客的第一篇，或许是个模版
 ---
 
-##初心
+## 初心
 
-开始一段旅程，just recoding
-
-
-
-
-
-
-
-
-
-
+开始一段旅程，just recoding!
