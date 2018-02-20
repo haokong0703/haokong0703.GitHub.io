@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: 测试文档
 date: 2017-12-10
 categories: blog
