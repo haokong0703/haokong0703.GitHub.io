@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "一年不买"
+title: "时光机"
 description: "文章归档"
 header-img: "img/orange.jpg"
 ---
