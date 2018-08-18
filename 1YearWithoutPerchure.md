@@ -7,7 +7,7 @@ header-img: "img/red.jpg"
 
 
 
-受![Emily Kathryn](https://emilysfilms.wordpress.com/)的行为感召，计划开始自己的一年不买东西的行动。
+受[Emily Kathryn](https://emilysfilms.wordpress.com/)的行为感召，计划开始自己的一年不买东西的行动。
 不知道一年中会经历什么，所以写下来。
 一年后见。
 
