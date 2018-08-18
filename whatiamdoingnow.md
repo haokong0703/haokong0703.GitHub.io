@@ -2,5 +2,5 @@
 layout: page
 title: "Doing Now"
 description: "我在做的"
-header-img: "img/yellow.jpg"
+header-img: "img/semantic.jpg"
 ---
