@@ -1,33 +1,5 @@
 ---
 layout: post
-title: 2018-06-06 日记录
-date: 2018-06-06
-categories: blog
-tags: [日记]
-description: 每日记录
----
-
-## 2018-06-06 日记录
-
-### 经历的历史
-#### Microsoft收购Github
-
-![](http://7xwgi5.com1.z0.glb.clouddn.com/Snipaste_2018-06-05_23-51-44.png)
-
-微软收购Github，成为巨头旗下的Github是否失去了中立立场，后续是否会有新的开源平台替代Github
-
-> [Microsoft + GitHub = Empowering Developers](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/)
-
-> [A bright future for GitHub](https://blog.github.com/2018-06-04-github-microsoft/)
-
-
-#### 快手收购AceFun
-> 快手确认已完成对Acfun的整体收购，未来，A站将保持独立品牌、维持独立运营、保持原有团队、独立发展。
-
-不算二次元，但依旧希望能够有些小小的，垂直的领地能够存在
-
----
-layout: post
 title: 旅行心愿单
 date: 2018-02-25
 categories: blog
