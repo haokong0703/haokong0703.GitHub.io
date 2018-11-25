@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: 物品心愿单
 date: 2018-02-25
 categories: blog
