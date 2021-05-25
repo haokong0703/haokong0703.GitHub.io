@@ -11,7 +11,7 @@ header-img: "img/semantic.jpg"
 
 ## 阅读
 * 读库《1805》
-* Blog[《落日间》]（https://docs.xpaidia.com/）
+* Blog[《落日间》](https://docs.xpaidia.com/）
 这是一个游戏人打造的媒体实验室
 
 ## 写作
