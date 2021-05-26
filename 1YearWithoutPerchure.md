@@ -1,6 +1,6 @@
 ---
 layout: 
-title: "一年不买"
+title: ""
 description: "记录不买东西的一年，一年后见"
 header-img: "img/red.jpg"
 ---
