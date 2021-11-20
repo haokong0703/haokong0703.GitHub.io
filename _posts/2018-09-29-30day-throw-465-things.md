@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: 30天告别465件东西
 date: 2017-09-28
 categories: blog
